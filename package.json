@@ -1,0 +1,12 @@
+{
+  "name": "node-lastexport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ihgrant/node-lastexport.git",
+  "author": "<ian@chenghiz.net>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "got": "^8.3.0"
+  }
+}
