@@ -6,6 +6,7 @@
   "author": "<ian@chenghiz.net>",
   "license": "MIT",
   "dependencies": {
+    "better-sqlite3": "^4.1.0",
     "dotenv": "^5.0.1",
     "got": "^8.3.0"
   }
